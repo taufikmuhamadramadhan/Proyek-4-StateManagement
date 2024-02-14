@@ -1,16 +1,13 @@
-# weather_app
+# Praktikum 4 State Management
 
-A new Flutter project.
+Nama  : Taufik Muhamad Ramadhan
 
-## Getting Started
+NIM   : 221511065 
 
-This project is a starting point for a Flutter application.
+Kelas : 2B
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot Hasil Praktikum WeaterApp
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2024-02-14 192150](https://github.com/taufikmuhamadramadhan/Proyek-4-StateManagement/assets/42929886/659dcde8-f8b5-474b-9e10-775445ba4369)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-02-14 192222](https://github.com/taufikmuhamadramadhan/Proyek-4-StateManagement/assets/42929886/1f1b4ddc-a836-46e3-9b82-48f5d3d0aee0)
